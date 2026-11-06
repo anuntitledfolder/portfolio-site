@@ -1,0 +1,13 @@
+{
+  "source": "https://lovely-priority-558032.framer.app/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-11-06T06:13:27.803Z",
+  "assets": 1271,
+  "failedAssets": [],
+  "subpages": 8,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}

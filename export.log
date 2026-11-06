@@ -1,0 +1,102 @@
+[06:12:04] [info] Source   : [4mhttps://lovely-priority-558032.framer.app/[24m
+[06:12:04] [info] Output   : [38;2;250;178;131m/home/walburg/Documents/scary/FramerExport/framer-lovely-priority-558032-prime-page-efni[39m
+[06:12:04] [info] Platform : [38;2;250;178;131mFramer[39m
+[06:12:04] [info] DPR      : [38;2;250;178;131m1[39m
+[06:12:04] [info] Subpages : [38;2;127;216;143menabled[39m
+[06:12:04] [log] Output directory structure created
+[06:12:04] [log] Fetching SSR HTML from https://lovely-priority-558032.framer.app/
+[06:12:05] [ok] SSR HTML fetched (336.0 KB)
+[06:12:05] [log] Launching headless Chromium...
+[06:12:05] [ok] Chromium launched
+[06:12:05] [log] Stealth hardening applied (Chrome 155.0.8059.79)
+[06:12:05] [log] Viewport set to 1440x900 at 1x DPR
+[06:12:05] [log] Blocking 8 tracking domains:
+[06:12:05] [log]   - sentry.io
+[06:12:05] [log]   - www.googletagmanager.com
+[06:12:05] [log]   - connect.facebook.net
+[06:12:05] [log]   - stats.g.doubleclick.net
+[06:12:05] [log]   - google-analytics.com
+[06:12:05] [log]   - events.framer.com
+[06:12:05] [log]   - api.framer.com
+[06:12:05] [log]   - collect.frameranalytics.com
+[06:12:05] [log] Network interception enabled
+[06:12:05] [info] Navigating to https://lovely-priority-558032.framer.app/
+[06:12:05] [ok] Document loaded; waiting for page content and resources
+[06:12:05] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
+[06:12:05] [log] Checking DOM-based platform detection...
+[06:12:06] [log] Hydration content found: #main
+[06:12:12] [log] Waiting for font layout and response bodies
+[06:12:12] [log] Resources settled
+[06:12:12] [log] Captured HTML and CSSOM (349.6 KB)
+[06:12:12] [ok] Captured 333 network resources total
+[06:12:12] [log]   CSS: 2 | JS: 287 | Images: 36 | Fonts: 7
+[06:12:12] [log] Scanning page for internal links...
+[06:12:12] [log] Found 8 sub-page links on the home page
+[06:12:12] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/klean
+[06:12:13] [log] Hydration content found: #main
+[06:12:17] [log] Waiting for font layout and response bodies
+[06:12:17] [log] Resources settled
+[06:12:17] [log]   Sub-page fetched: 255.4 KB
+[06:12:17] [log]   Saved: subpages/klean.html
+[06:12:17] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/typecon
+[06:12:18] [log] Hydration content found: #main
+[06:12:22] [log] Waiting for font layout and response bodies
+[06:12:22] [log] Resources settled
+[06:12:22] [log]   Sub-page fetched: 308.2 KB
+[06:12:22] [log]   Saved: subpages/typecon.html
+[06:12:22] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/l.a.loid
+[06:12:23] [log] Hydration content found: #main
+[06:12:27] [log] Waiting for font layout and response bodies
+[06:12:27] [log] Resources settled
+[06:12:27] [log]   Sub-page fetched: 284.4 KB
+[06:12:27] [log]   Saved: subpages/l_a_loid.html
+[06:12:27] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/tagd
+[06:12:28] [log] Hydration content found: #main
+[06:12:33] [log] Waiting for font layout and response bodies
+[06:12:33] [log] Resources settled
+[06:12:33] [log]   Sub-page fetched: 336.5 KB
+[06:12:33] [log]   Saved: subpages/tagd.html
+[06:12:33] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/book-covers
+[06:12:34] [log] Hydration content found: #main
+[06:12:38] [log] Waiting for font layout and response bodies
+[06:12:38] [log] Resources settled
+[06:12:38] [log]   Sub-page fetched: 248.0 KB
+[06:12:38] [log]   Saved: subpages/book-covers.html
+[06:12:38] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/exoplanet
+[06:12:39] [log] Hydration content found: #main
+[06:12:43] [log] Waiting for font layout and response bodies
+[06:12:43] [log] Resources settled
+[06:12:43] [log]   Sub-page fetched: 245.6 KB
+[06:12:43] [log]   Saved: subpages/exoplanet.html
+[06:12:43] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/handyman
+[06:12:44] [log] Hydration content found: #main
+[06:12:48] [log] Waiting for font layout and response bodies
+[06:12:48] [log] Resources settled
+[06:12:48] [log]   Sub-page fetched: 280.4 KB
+[06:12:48] [log]   Saved: subpages/handyman.html
+[06:12:48] [log]   Navigating to sub-page: https://lovely-priority-558032.framer.app/print
+[06:12:49] [log] Hydration content found: #main
+[06:12:53] [log] Waiting for font layout and response bodies
+[06:12:53] [log] Resources settled
+[06:12:53] [log]   Sub-page fetched: 252.5 KB
+[06:12:53] [log]   Saved: subpages/print.html
+[06:12:53] [ok] Sub-pages crawled: 8
+[06:12:53] [log] Browser closed
+[06:12:53] [ok] Queued 543 resource(s) declared in HTML but never requested
+[06:12:53] [log] Starting download of 982 assets and their CSS/HTML dependencies
+[06:13:03] [ok] Downloads complete: 1252 succeeded, 438 from cache
+[06:13:06] [ok] Lazy-loaded chunks resolved: 19
+[06:13:06] [log] Starting HTML post-processing...
+[06:13:06] [log] HTML size: 349.6 KB
+[06:13:06] [ok] Index HTML pipeline complete
+[06:13:12] [log] Rewrote URLs in 226 JS/CSS files
+[06:13:12] [log] Rewrote resources in 1 embedded HTML documents
+[06:13:12] [ok] Sub-pages linked to local assets: 8/8
+[06:13:12] [ok] Captured asset URLs rewritten to local paths
+[06:13:27] [ok] Formatted 325/325 JS/MJS files
+[06:13:27] [log] Writing index.html (446.0 KB)...
+[06:13:27] [ok] index.html written
+[06:13:27] [log] serve.js written
+[06:13:27] [log] package.json written for serve.js
+[06:13:27] [ok] Output build complete
+[06:13:27] [ok] Export complete!
